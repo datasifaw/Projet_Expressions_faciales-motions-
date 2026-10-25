@@ -1,4 +1,4 @@
-# 😊 Reconnaissance des émotions faciales — FER2013
+# 😊 Reconnaissance des émotions faciales — FER2013 :
 
 Projet de **Deep Learning et Computer Vision** consacré à la classification automatique des émotions faciales à partir d'images.
 
